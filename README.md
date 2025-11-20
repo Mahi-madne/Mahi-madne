@@ -51,8 +51,8 @@ I focus on writing clean code, improving UI/UX, and building real-world projects
   <img src="https://github-readme-stats.vercel.app/api?username=Mahi-madne&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="160" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-madne&layout=compact&theme=vision-friendly-dark&hide_border=true" height="160" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi-madne&theme=vision-friendly-dark&hide_border=true" height="180" />
+  
+<img src="https://streak-stats.demolab.com?user=Mahi-madne&theme=vision-friendly-dark&hide_border=true" height="180" />
 
   <br><br>
 
