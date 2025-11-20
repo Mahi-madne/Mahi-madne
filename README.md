@@ -1,65 +1,59 @@
-<!-- Animated Header -->
+<!-- Animated Gradient Header -->
 <div align="center">
-
-  <!-- Waving Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:5F27CD&height=220&section=header&text=Mahi%20Madne&fontSize=50&fontColor=ffffff"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,11,20&height=230&section=header&text=Mahi%20Madne&fontSize=50&fontAlignY=35&desc=Frontend%20Developer&descSize=20&fontColor=ffffff"/>
 </div>
 
 ---
 
-## 🌟 About Me
-💡 Passionate Frontend Developer focused on clean UI & smooth user experience  
-⚡ Creating real-world projects using **HTML, CSS, JavaScript, Bootstrap**  
-⚛️ Currently exploring **React** to build dynamic web apps  
-🧩 Strong logical thinking with **C++ fundamentals**  
-🚀 Always improving by building new projects and experimenting with UI  
+## 👨‍💻 About Me  
+I am a Frontend Developer passionate about building clean, modern, and responsive web interfaces.  
+I focus on writing clean code, improving UI/UX, and building real-world projects using modern tools.
+
+- 💻 Skilled in **HTML, CSS, JavaScript, Bootstrap**
+- ⚛️ Learning **React** to build dynamic apps
+- 🧠 Strong logic-building foundation using **C++**
+- 🎯 Goal: Become a full-stack developer and get placed in 2025
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### **Frontend Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" height="50"/>
-</p>
-
-### **Programming**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-</p>
-
-### **Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,chrome" height="50"/>
-</p>
+## 🚀 Tech Stack & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="55" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,chrome,figma" height="55" />
+</div>
 
 ---
 
 ## 📌 Featured Projects
-### 🔹 **Responsive Portfolio Website**
-Elegant personal portfolio made using HTML, CSS & JS.
 
-### 🔹 **Tic Tac Toe Game (Advanced)**
-Animations, sound effects, scoreboard & smart logic.
+### 🔹 **1. Responsive Portfolio Website**
+A modern and visually appealing portfolio showcasing my work.
 
-### 🔹 **Frontend Complete Website**
-A multi-page fully responsive UI built with HTML & CSS.
+### 🔹 **2. Stopwatch Web App**
+A functional, minimal timer app with start, stop & reset features using JavaScript.
 
-### 🔹 **Bootstrap UI Components**
-A collection of reusable components (cards, navbars, modals, etc.)
+### 🔹 **3. Tic Tac Toe Game (Enhanced)**
+Includes animations, winning effects, sound, and score tracking.
 
-👉 *More projects coming soon…*
+### 🔹 **4. Complete Frontend Website**
+A multi-page responsive website built using HTML & CSS.
+
+👉 *More projects are being uploaded soon…*
 
 ---
 
 ## 📊 GitHub Stats & Activity
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahi-madne&show_icons=true&theme=tokyonight" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-madne&layout=compact&theme=tokyonight" height="160px"/>
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahi-madne&show_icons=true&theme=radical&hide_border=true" height="160px"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi-madne&theme=tokyonight" height="180px"/>
+  <!-- Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-madne&layout=compact&theme=radical&hide_border=true" height="160px"/>
+
+  <!-- Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi-madne&theme=radical&hide_border=true" height="180px"/>
 
 </div>
 
@@ -68,17 +62,14 @@ A collection of reusable components (cards, navbars, modals, etc.)
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/mahi-madne" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+<!-- Minimal Footer -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F27CD,100:FF6B6B&height=120&section=footer"/>
-
-### ⭐ *Thanks for visiting my profile!*  
-### 🌈 *Keep Building. Keep Growing.*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,14,20&height=120&section=footer"/>
 </div>
+
