@@ -1,79 +1,90 @@
-<!-- HEADER SECTION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/Assets/wave.svg" width="100%" />
-</p>
-
-<h1 align="center">
-  <span style="font-size:40px;">🚀 Hey, I'm <strong>Mahi Madne</strong></span><br>
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F0FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Turning+Ideas+Into+Clean+UI;Always+Building+Always+Learning" />
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420px">
-</p>
-
----
-
-<!-- ABOUT ME -->
-## <h2 align="center">✨ About Me</h2>
-
-<p align="center">
-
-🎯 <strong>Aspiring Frontend Developer</strong> passionate about creating beautiful, responsive, and user-friendly interfaces.  
-💻 Love working with **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and learning **React**.  
-🔥 Currently improving my logic-building skills & working on polished frontend projects.  
-🌱 Consistent learner who believes in *“Build → Break → Fix → Grow”*.  
-</p>
-
----
-
-<!-- SKILLS -->
-## <h2 align="center">🧩 Tech Stack</h2>
-
-<p align="center">
-  
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,cpp,vscode,react" />
-
-</p>
-
----
-
-<!-- PROJECTS -->
-## <h2 align="center">🚀 Featured Projects</h2>
-
+<!-- 🌈 VIBRANT ANIMATED HEADER -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=0,10,2,14&text=Mahi%20Madne&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Building+Modern+Web+Interfaces;Focused+on+Clean+UI+%26+Smooth+UX" />
+  </p>
+</div>
 
-### 🔸 **Spotify Clone**
-🎧 A clean and responsive Spotify UI built using **HTML + CSS**.
+---
 
-### 🔸 **Calculator**
-🧮 Simple & elegant calculator using **JavaScript DOM**.
+## 👨‍💻 **About Me**
+<div align="left">
 
-### 🔸 **Tic Tac Toe Game**
-❌⭕ Fun game with UI animations & win detection.
+✨ Frontend Developer passionate about modern UI  
+✨ Clean code + pixel-perfect designs  
+✨ Skilled in **HTML, CSS, JavaScript, Bootstrap**  
+✨ Learning **React** to build dynamic applications  
+✨ Strong logic foundation using **C++**  
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
-## <h2 align="center">📊 GitHub Highlights</h2>
-
-<p align="center">
+## 🚀 **Tech Stack & Tools**
+<div align="center" style="margin-top: 10px;">
   
-<img src="https://github-readme-stats.vercel.app/api?username=mahi-madne&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-madne&theme=tokyonight&hide_border=true" width="48%"/>
+  <!-- Animated Icons -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="60" />
+  <img src="https://skillicons.dev/icons?i=cpp,github,vscode,figma" height="60" />
 
-<br><br>
+  <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi-madne&theme=react-dark&hide_border=true"/>
+  <!-- Section Glow Bar -->
+  <img src="https://github.com/kyechan99/capsule-render/raw/master/src/images/dots.gif" width="450">
+</div>
+
+---
+
+## ⭐ **Featured Projects**
+<div align="left">
+
+### 🔹 **Responsive Portfolio Website**
+Modern, clean, and fully responsive.
+
+### 🔹 **Stopwatch Web App**
+Start/stop/reset with simple UI.
+
+### 🔹 **Tic Tac Toe (Enhanced)**
+Animations, sound, and scoreboard.
+
+### 🔹 **Complete Frontend Website**
+Multi-page responsive layout.
+
+> More projects are being uploaded…
+
+</div>
+
+---
+
+## 📊 **GitHub Stats**
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahi-madne&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="160" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-madne&layout=compact&theme=vision-friendly-dark&hide_border=true" height="160" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi-madne&theme=vision-friendly-dark&hide_border=true" height="180" />
+
+  <br><br>
+
+  <!-- New Animation Instead of Snake -->
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400">
+
+</div>
+
+---
+
+## 🌐 **Connect With Me**
+<p align="center">
+  <a href="https://linkedin.com/in/mahi-madne" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<!-- FOOTER ANIMATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/Assets/wave.svg" width="100%" />
-</p>
-
-
+<!-- 🎨 Bright Vibrant Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=10,2,14&section=footer"/>
+</div>
