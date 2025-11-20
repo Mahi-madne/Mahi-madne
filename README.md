@@ -63,7 +63,7 @@ I focus on writing clean code, improving UI/UX, and building real-world projects
 
 ## 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://linkedin.com/in/mahi-madne" target="_blank">
+  <a href="www.linkedin.com/in/mahi-madne-39051632a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
