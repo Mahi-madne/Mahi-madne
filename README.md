@@ -70,7 +70,7 @@ I focus on writing clean code, improving UI/UX, and building real-world projects
 
 ---
 
-<!-- 🎨 Bright Vibrant Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=10,2,14&section=footer"/>
+<!-- 🎨 Bright Vibrant Footer --> 
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=10,2,14&section=footer"/> 
 </div>
