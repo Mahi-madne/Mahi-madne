@@ -20,7 +20,7 @@ I focus on writing clean code, improving UI/UX, and building real-world projects
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="55"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
-  <img src="https://skillicons.dev/icons?i=github,vscode,figma" height="55"/>
+  <img src="https://skillicons.dev/icons?i=github,vscode" height="55"/>
 </div>
 
 ---
