@@ -1,22 +1,18 @@
-<!-- 🌈 VIBRANT ANIMATED HEADER -->
+<!-- Animated Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=0,10,2,14&text=Mahi%20Madne&fontSize=55&fontColor=ffffff&animation=fadeIn" />
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Building+Modern+Web+Interfaces;Focused+on+Clean+UI+%26+Smooth+UX" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,11,20&height=230&section=header&text=Mahi%20Madne&fontSize=50&fontAlignY=35&desc=Frontend%20Developer&descSize=20&fontColor=ffffff"/>
 </div>
 
 ---
 
+
 ## 👨‍💻 **About Me**
-<div align="left">
-
-✨ Frontend Developer passionate about modern UI  
-✨ Clean code + pixel-perfect designs  
-✨ Skilled in **HTML, CSS, JavaScript, Bootstrap**  
-✨ Learning **React** to build dynamic applications  
-✨ Strong logic foundation using **C++**  
-
+I am a Frontend Developer passionate about building clean, modern, and responsive web interfaces. I focus on writing clean code, improving UI/UX, and building real-world projects using modern tools
+<div align="center">
+- 💻 Skilled in **HTML, CSS, JavaScript, Bootstrap** 
+  - ⚛️ Learning **React** to build dynamic apps 
+  - 🧠 Strong logic-building foundation using **C++** 
+  - 🎯 Goal: Become a full-stack developer ---
 </div>
 
 ---
@@ -26,7 +22,7 @@
   
   <!-- Animated Icons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="60" />
-  <img src="https://skillicons.dev/icons?i=cpp,github,vscode,figma" height="60" />
+  <img src="https://skillicons.dev/icons?i=cpp,github,vscode" height="60" />
 
   <br><br>
 
@@ -36,24 +32,13 @@
 
 ---
 
-## ⭐ **Featured Projects**
-<div align="left">
+## 📌 Featured Projects  
+✔ **Responsive Portfolio** – Clean UI & animations  
+✔ **Stopwatch App** – Start/Stop/Reset with JS  
+✔ **Tic Tac Toe** –  animations, winning effects, score tracking. 
+✔ **Frontend Multi-Page Website** – Fully responsive  
 
-### 🔹 **Responsive Portfolio Website**
-Modern, clean, and fully responsive.
-
-### 🔹 **Stopwatch Web App**
-Start/stop/reset with simple UI.
-
-### 🔹 **Tic Tac Toe (Enhanced)**
-Animations, sound, and scoreboard.
-
-### 🔹 **Complete Frontend Website**
-Multi-page responsive layout.
-
-> More projects are being uploaded…
-
-</div>
+*More projects coming soon…*
 
 ---
 
