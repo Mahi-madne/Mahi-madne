@@ -18,57 +18,48 @@ I focus on writing clean code, improving UI/UX, and building real-world projects
 
 ## 🚀 Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="55" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="55" />
-  <img src="https://skillicons.dev/icons?i=github,vscode,chrome,figma" height="55" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="55"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma" height="55"/>
 </div>
 
 ---
 
-## 📌 Featured Projects
 
-### 🔹 **1. Responsive Portfolio Website**
-A modern and visually appealing portfolio showcasing my work.
+## 📌 Featured Projects  
+✔ **Responsive Portfolio** – Clean UI & animations  
+✔ **Stopwatch App** – Start/Stop/Reset with JS  
+✔ **Tic Tac Toe (Advanced)** – Sounds, animations, scoreboard  
+✔ **Frontend Multi-Page Website** – Fully responsive  
 
-### 🔹 **2. Stopwatch Web App**
-A functional, minimal timer app with start, stop & reset features using JavaScript.
-
-### 🔹 **3. Tic Tac Toe Game (Enhanced)**
-Includes animations, winning effects, sound, and score tracking.
-
-### 🔹 **4. Complete Frontend Website**
-A multi-page responsive website built using HTML & CSS.
-
-👉 *More projects are being uploaded soon…*
+*More projects coming soon…*
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Insights  
 <div align="center">
 
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahi-madne&show_icons=true&theme=radical&hide_border=true" height="160px"/>
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahi-madne&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
-  <!-- Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-madne&layout=compact&theme=radical&hide_border=true" height="160px"/>
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-madne&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
-  <!-- Streaks -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi-madne&theme=radical&hide_border=true" height="180px"/>
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi-madne&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/mahi-madne" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+## 🌐 Connect  
+<a href="https://linkedin.com/in/mahi-madne" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ---
 
-<!-- Minimal Footer -->
+<!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,14,20&height=120&section=footer"/>
 </div>
