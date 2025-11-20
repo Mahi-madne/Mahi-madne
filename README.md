@@ -5,40 +5,43 @@
 
 ---
 
-
 ## 👨‍💻 **About Me**
-I am a Frontend Developer passionate about building clean, modern, and responsive web interfaces. I focus on writing clean code, improving UI/UX, and building real-world projects using modern tools
 <div align="center">
-- 💻 Skilled in **HTML, CSS, JavaScript, Bootstrap** 
-  - ⚛️ Learning **React** to build dynamic apps 
-  - 🧠 Strong logic-building foundation using **C++** 
-  - 🎯 Goal: Become a full-stack developer ---
+I am a Frontend Developer passionate about building clean, modern, and responsive web interfaces.  
+I focus on writing clean code, improving UI/UX, and building real-world projects using modern tools.
+<br><br>
+
+💻 Skilled in **HTML, CSS, JavaScript, Bootstrap**  
+⚛️ Learning **React** to build dynamic apps  
+🧠 Strong logic-building foundation using **C++**  
+🎯 Goal: Become a **Full-Stack Developer**
 </div>
 
 ---
 
 ## 🚀 **Tech Stack & Tools**
 <div align="center" style="margin-top: 10px;">
-  
-  <!-- Animated Icons -->
+
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="60" />
   <img src="https://skillicons.dev/icons?i=cpp,github,vscode" height="60" />
 
   <br><br>
 
-  <!-- Section Glow Bar -->
   <img src="https://github.com/kyechan99/capsule-render/raw/master/src/images/dots.gif" width="450">
 </div>
 
 ---
 
-## 📌 Featured Projects  
+## 📌 **Featured Projects**
+<div align="center">
+
 ✔ **Responsive Portfolio** – Clean UI & animations  
-✔ **Stopwatch App** – Start/Stop/Reset with JS  
-✔ **Tic Tac Toe** –  animations, winning effects, score tracking. 
+✔ **Stopwatch App** – Start / Stop / Reset with JS  
+✔ **Tic Tac Toe** – Animations, winning effects, score tracking  
 ✔ **Frontend Multi-Page Website** – Fully responsive  
 
 *More projects coming soon…*
+</div>
 
 ---
 
@@ -53,9 +56,7 @@ I am a Frontend Developer passionate about building clean, modern, and responsiv
 
   <br><br>
 
-  <!-- New Animation Instead of Snake -->
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400">
-
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="420">
 </div>
 
 ---
