@@ -1,6 +1,6 @@
 <!-- Animated Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,11,20&height=230&section=header&text=Mahi%20Madne&fontSize=50&fontAlignY=35&desc=Frontend%20Developer&descSize=20&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,14&height=230&section=header&text=Mahi%20Madne&fontSize=50&fontAlignY=35&desc=Frontend%20Developer&descSize=20&fontColor=ffffff"/>
 </div>
 
 ---
